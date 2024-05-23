@@ -1,6 +1,6 @@
 # 📖 태극 항공 홈페이지지 Taeguk
 
-![readme_mockup2](https://github.com/Final-Project-Team-2/.github/blob/master/KakaoTalk_20240514_114845176.png)
+![readme_mockup2](https://github.com/Final-Project-Team-2/.github/tree/master/profile/logo.png)
 
 - 배포 URL : https://taeguk.site.com
 - Test ID : readme@test.com
