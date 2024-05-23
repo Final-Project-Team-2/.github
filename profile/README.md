@@ -1,6 +1,6 @@
 # 📖 태극 항공 홈페이지지 Taeguk
 
-<img width="1170" heigth="400" https://github.com/Final-Project-Team-2/.github/assets/156178513/181f6864-c688-45a2-aee9-6ca2ce2d597d>
+(https://github.com/Final-Project-Team-2/.github/assets/156178513/18a3e291-921e-45f1-bf8a-fb382821ce8d)
 
 - 배포 URL : https://taeguk.site.com
 - Test ID : readme@test.com
