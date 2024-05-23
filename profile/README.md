@@ -1,6 +1,8 @@
 # 📖 태극 항공 홈페이지지 Taeguk
 
-<img src="https://github.com/Final-Project-Team-2/.github/assets/156178513/06d6887c-dfb0-4170-936d-8ddca8c5023d" width="1700" />
+<img src="https://github.com/Final-Project-Team-2/.github/assets/156178513/06d6887c-dfb0-4170-936d-8ddca8c5023d" width="500px" height="500px";/>
+
+- 향후 홈페이지 메인 화면 띄우기 좋을듯
 
 
 - 배포 URL : https://taeguk.site.com
