@@ -11,15 +11,15 @@ Test PW : 1234
 
 ## 프로젝트 소개
 
-태극 항공은 기차나 버스처럼 간편하게 국내를 빠르고 간편하게 이동하고 싶다는 마음으로 제작했습니다!
-국내만 이동하기에 간단하게 이용할 수 있도록 하는것에 포커를 맞추었습니다!
-간편한 만큼 합리적인 가격을 받아서 만족도가 업 되도록!!
-협력 업체를 이용하게 된다면 더욱 가성비가 높아지는 페이지!
+태극항공 프로젝트는 대한항공 웹사이트를 레퍼런스 기반 개발하여 국내 이동만 가능하도록 기능을 축소 및 재구성한 웹 애플리케이션입니다. Spring Boot와 JPA를 백엔드에서 사용하여 강력하고 유연한 서버를 구축하였고, React를 프론트엔드에 연동하여 사용자 친화적인 UI를 제공했습니다.
 
+<br>
 
 ## 팀원 구성
-| **오현성** | **권웅진** | **윤시현** | **이총제** |
-| :------: |  :------: | :------: | :------: |
+| **오현성** | **권웅진** | **이총제** |
+| :------: |  :------: | :------: |
+
+<br>
 
 ## 1. 개발 환경
 
@@ -36,6 +36,9 @@ Test PW : 1234
 -서비스 배포 환경 : <img src="https://img.shields.io/badge/AWS-ffff2b?style=for-the-badge&logo=AWS&logoColor=black">
 
 -디자인 : <img src="https://img.shields.io/badge/Figma-fa3303?style=for-the-badge&logo=Figma&logoColor=white">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leechongjae&layout=compact)](https://github.com/leechongjae/github-readme-stats)
+
 
 <br>
 
@@ -70,7 +73,9 @@ master와 기능별 브랜치로 나누어 개발을 하였습니다.
 
 ## 3. 프로젝트 구조
 
-react 및 springboot 설계도 올리기
+![image](https://github.com/Final-Project-Team-2/Taegukair/assets/156178513/6b13ee0d-05c6-47b7-8538-d17f1485cb89)   ![image](https://github.com/Final-Project-Team-2/Taegukair/assets/156178513/fef0992f-6f4c-44d8-9f37-9d945a4e597e)
+
+<br>
 
 ## 4. 역할 분담
 
@@ -93,23 +98,30 @@ react 및 springboot 설계도 올리기
 ### 개발 기간
 
 전체 개발 기간 : 2024-05-14 ~ 2024-06-14
-  노션 페이지 넣기
 
+
+[노션 바로가기!](https://www.notion.so/ohgiraffers/7621f33977904cce9e3c83893113e929)
+
+<br>
 
 ### 작업 관리
 
 GitHub Projects와 Issues를 사용하여 진행 상황을 공유했습니다.
 주간회의를 진행하며 작업 순서와 방향성에 대한 고민을 나누고 notion에 회의 내용을 기록했습니다.
 
+<br>
 
 ## 6. 신경 쓴 부분
 
 없어도 무관하나 어필할 수 있는 공간으로 생성
 
+<br>
 
 ## 7. 페이지별 기능
 
 기능 이미지 또는 발표 자료 준비하는 느낌으로 이미지 또는 설명으로 부각시키기
+
+<br>
 
 ## 8. 프로젝트 후기
 
@@ -121,5 +133,7 @@ GitHub Projects와 Issues를 사용하여 진행 상황을 공유했습니다.
 
 ### 🐬이총제
 프로젝트를 마무리하며 후기 작성
+
+
 
 </div>
