@@ -1,5 +1,5 @@
 ## 📖 태극 항공 홈페이지 Taeguk
-<div align="center">
+<div align="center" maxwidth="60%">
 
 ![image](https://github.com/Final-Project-Team-2/Taegukair/assets/156178513/4e45c976-46a4-45d6-947b-7b714c1fba1d)
 
