@@ -1,7 +1,7 @@
 <div align="center">
 ## 📖 태극 항공 홈페이지 Taeguk
 
-https://github.com/Final-Project-Team-2/Taegukair/assets/156178513/0dad93b0-7e44-46fe-bb76-d9da4bfb0de6
+![image](https://github.com/Final-Project-Team-2/Taegukair/assets/156178513/4e45c976-46a4-45d6-947b-7b714c1fba1d)
 
 향후 홈페이지 메인 화면 띄우기 좋을듯
 
