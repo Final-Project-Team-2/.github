@@ -25,13 +25,13 @@
 
 ## 1. 개발 환경
 
-- Front : HTML, React, styled-components, Recoil
-- Back-end : SpringBoot/JPA
-- DB : MySQL
-- 버전 및 이슈관리 : Github, Github Issues, Github Project
-- 협업 툴 : Discord, Notion, Github
-- 서비스 배포 환경 : AWS
-- 디자인 : [Figma](https://www.figma.com/file/fAisC2pEKzxTOzet9CfqML/README(oh-my-code)?node-id=39%3A1814)
+- Front : <img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=HTML&logoColor=red">, <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=React&logoColor=red">
+- Back-end : <img src="https://img.shields.io/badge/SpringBoot-3776AB?style=for-the-badge&logo=SpringBoot&logoColor=red"> <img src="https://img.shields.io/badge/JPA-3776AB?style=for-the-badge&logo=JPA&logoColor=red">
+- DB : <img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=MySQL&logoColor=red">
+- 버전 및 이슈관리 : <img src="https://img.shields.io/badge/Github-3776AB?style=for-the-badge&logo=Github&logoColor=red">
+- 협업 툴 : <img src="https://img.shields.io/badge/Discord-3776AB?style=for-the-badge&logo=Discord&logoColor=red"> <img src="https://img.shields.io/badge/Notion-3776AB?style=for-the-badge&logo=Notion&logoColor=red"> <img src="https://img.shields.io/badge/Github-3776AB?style=for-the-badge&logo=Github&logoColor=red">
+- 서비스 배포 환경 : <img src="https://img.shields.io/badge/AWS-3776AB?style=for-the-badge&logo=AWS&logoColor=red">
+- 디자인 : <img src="https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=Figma&logoColor=red">
 
 <br>
 
