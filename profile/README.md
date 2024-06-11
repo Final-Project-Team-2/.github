@@ -1,4 +1,4 @@
-## 📖 태극 항공 홈페이지 Taeguk
+## 📖 태극 항공 프로젝트 Taeguk
 
 ![image](https://github.com/Final-Project-Team-2/Taegukair/assets/156178513/4e45c976-46a4-45d6-947b-7b714c1fba1d)
 
