@@ -1,5 +1,4 @@
 ## 📖 태극 항공 홈페이지 Taeguk
-<div align="center" maxwidth="60%">
 
 ![image](https://github.com/Final-Project-Team-2/Taegukair/assets/156178513/4e45c976-46a4-45d6-947b-7b714c1fba1d)
 
@@ -134,6 +133,3 @@ GitHub Projects와 Issues를 사용하여 진행 상황을 공유했습니다.
 ### 🐬이총제
 프로젝트를 마무리하며 후기 작성
 
-
-
-</div>
