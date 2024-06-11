@@ -1,12 +1,9 @@
-<div align="center">
 ## 📖 태극 항공 홈페이지 Taeguk
+<div align="center">
 
 ![image](https://github.com/Final-Project-Team-2/Taegukair/assets/156178513/4e45c976-46a4-45d6-947b-7b714c1fba1d)
 
-향후 홈페이지 메인 화면 띄우기 좋을듯
-
-
-배포 URL : https://taeguk.site.com
+배포 URL : https://taegukair.site
 Test ID : admin
 Test PW : 1234
 
@@ -26,13 +23,19 @@ Test PW : 1234
 
 ## 1. 개발 환경
 
-Front : <img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=HTML&logoColor=red">, <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=React&logoColor=red">
-Back-end : <img src="https://img.shields.io/badge/SpringBoot-3776AB?style=for-the-badge&logo=SpringBoot&logoColor=red"> <img src="https://img.shields.io/badge/JPA-3776AB?style=for-the-badge&logo=JPA&logoColor=red">
-DB : <img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=MySQL&logoColor=red">
-버전 및 이슈관리 : <img src="https://img.shields.io/badge/Github-3776AB?style=for-the-badge&logo=Github&logoColor=red">
-협업 툴 : <img src="https://img.shields.io/badge/Discord-3776AB?style=for-the-badge&logo=Discord&logoColor=red"> <img src="https://img.shields.io/badge/Notion-3776AB?style=for-the-badge&logo=Notion&logoColor=red"> <img src="https://img.shields.io/badge/Github-3776AB?style=for-the-badge&logo=Github&logoColor=red">
-서비스 배포 환경 : <img src="https://img.shields.io/badge/AWS-3776AB?style=for-the-badge&logo=AWS&logoColor=red">
-디자인 : <img src="https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=Figma&logoColor=red">
+-Front : <img src="https://img.shields.io/badge/HTML-fe5656?style=for-the-badge&logo=HTML&logoColor=red">, <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=React&logoColor=red">
+
+-Back-end : <img src="https://img.shields.io/badge/SpringBoot-74d56a?style=for-the-badge&logo=SpringBoot&logoColor=red"> <img src="https://img.shields.io/badge/JPA-a667cf?style=for-the-badge&logo=JPA&logoColor=red">
+
+-DB : <img src="https://img.shields.io/badge/MySQL-49bcd7?style=for-the-badge&logo=MySQL&logoColor=red">
+
+-버전 및 이슈관리 : <img src="https://img.shields.io/badge/Github-49ba01?style=for-the-badge&logo=Github&logoColor=red">
+
+-협업 툴 : <img src="https://img.shields.io/badge/Discord-dec7f1?style=for-the-badge&logo=Discord&logoColor=red"> <img src="https://img.shields.io/badge/Notion-cbf3de?style=for-the-badge&logo=Notion&logoColor=red"> 
+
+-서비스 배포 환경 : <img src="https://img.shields.io/badge/AWS-ffff2b?style=for-the-badge&logo=AWS&logoColor=black">
+
+-디자인 : <img src="https://img.shields.io/badge/Figma-fa3303?style=for-the-badge&logo=Figma&logoColor=white">
 
 <br>
 
@@ -46,8 +49,15 @@ React
     props를 이용한 조건부 스타일링을 활용하여 상황에 알맞은 스타일을 적용시킬 수 있었습니다.
     빌드될 때 고유한 클래스 이름이 부여되어 네이밍 컨벤션을 정하는 비용을 절약할 수 있었습니다.
     S dot naming을 통해 일반 컴포넌트와 스타일드 컴포넌트를 쉽게 구별하도록 했습니다.
+    
 
-Redux    
+Redux
+    Redux는 애플리케이션의 상태를 중앙에서 관리하여 유지보수와 확장성을 고려했습니다.
+    중앙 집중화된 상태 관리 덕분에 여러 컴포넌트에서 공통적으로 사용되는 상태를 쉽게 공유하고 업데이트할 수 있었습니다.
+    액션과 리듀서를 이용해 상태 변화를 예측 가능하게 만들었으며, 이를 통해 디버깅과 상태 추적이 용이해졌습니다.
+    미들웨어를 사용하여 비동기 작업을 처리하고, 복잡한 비즈니스 로직을 분리해 코드의 가독성을 높였습니다.
+    React와 함께 사용하여 컴포넌트 기반의 구조에서도 일관성 있는 상태 관리를 유지할 수 있었습니다.
+    Redux DevTools를 통해 상태 변화를 시각적으로 확인하고, 타임 트래블 디버깅을 활용해 효율적인 디버깅이 가능했습니다.
 
 ### 브랜치 전략
 
